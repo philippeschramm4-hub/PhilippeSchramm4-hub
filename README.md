@@ -5,13 +5,13 @@
 ---
 
 ### 🎓 Sobre mim
-  °  **Onde estudo:** CEDUP Diomício Freitas (Tubarão - SC).
+  °   **Onde estudo:** CEDUP Diomício Freitas (Tubarão - SC).
   
-  °  **Nível:** 1º ano do Ensino Médio.
+  °   **Nível:** 1º ano do Ensino Médio.
  
-  °  **Formação:** Estou cursando o ensino médio em período integral com habilitação técnica em  **Informática**.
+  °   **Formação:** Estou cursando o ensino médio em período integral com habilitação técnica em  **Informática**.
   
-  º  **Objetivo:** Aprimorar minhas habilidades em desenvolvimento e construir projetos legais.
+  °   **Objetivo:** Aprimorar minhas habilidades em desenvolvimento e construir projetos legais.
 
 ---
 
@@ -19,4 +19,5 @@
 Atualmente, estou focando em aprender a base do desenvolvimento web:
 
   °   **HTML5** 🌐
-  °  **CSS3** 🎨
+  
+  °   **CSS3** 🎨
