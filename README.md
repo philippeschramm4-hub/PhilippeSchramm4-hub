@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Philippe! 👋
 
-<!--
-**philippeschramm4-hub/PhilippeSchramm4-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante, entusiasta de tecnologia e apaixonado por aprender coisas novas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Sobre mim
+*   **Onde estudo:** CEDUP Diomício Freitas (Tubarão - SC).
+*   **Nível:** 1º ano do Ensino Médio.
+*   **Formação:** Estou cursando o ensino médio em período integral com habilitação técnica em **Informática**.
+*   **Objetivo:** Aprimorar minhas habilidades em desenvolvimento e construir projetos legais.
+
+---
+
+### 💻 Habilidades
+Atualmente, estou focando em aprender a base do desenvolvimento web:
+
+*   **HTML5** 🌐
+*   **CSS3** 🎨
+
+---
