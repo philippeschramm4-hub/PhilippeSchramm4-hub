@@ -1,6 +1,6 @@
 # Olá, eu sou o Philippe! 👋
 
- Estudante de *tecnologia* e apaixonado por *Hollow Knight* e *Metroidvania*.
+ Estudante de *tecnologia* e apaixonado por *Metal/Rock* e *Metroidvania*.
 
 ---
 
