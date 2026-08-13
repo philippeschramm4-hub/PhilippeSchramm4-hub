@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Habilidades
+### 💻 Atualmente
 Atualmente, estou focando em aprender a base do desenvolvimento web:
 
 ---
