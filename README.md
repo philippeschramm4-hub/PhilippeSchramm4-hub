@@ -1,22 +1,27 @@
 # Olá, eu sou o Philippe! 👋
 
- Estudante de *tecnologia* e apaixonado por *Hollow Knight* e *Metroidvanias*.
+ Estudante de *tecnologia*  
 
 ---
 
 ### 🎓 Sobre mim
-  °   **Onde estudo:** CEDUP Diomício Freitas (Tubarão - SC).
+ *   **Onde estudo:** CEDUP Diomício Freitas (Tubarão - SC).
   
-  °   **Nível:** 1º ano do Ensino Médio.
+ *   **Nível:** 1º ano do Ensino Médio.
  
-  °   **Formação:** Estou cursando o ensino médio em período integral com habilitação técnica em  **Informática**.
+ *   **Formação:** Estou cursando o ensino médio em período integral com habilitação técnica em  **Informática**.
   
-  °   **Objetivo:** Aprimorar minhas habilidades em desenvolvimento e construir projetos legais.
+ *   **Objetivo:** Aprimorar minhas habilidades em desenvolvimento e construir projetos legais.
 
+---
+### 🎮👾 Meus Favoritos  
+ *   **Jogos favoritos** Hollow Knight & Minecraft.
+ 
+ *   **Musicas/Bandas** Three Days Grace & Kasane Teto.    
 ---
 
 ### 💻 Atualmente
-Atualmente, estou focando em aprender a base do desenvolvimento web:
+Atualmente, estou focando em aprender a base do desenvolvimento web
 
 ---
 
